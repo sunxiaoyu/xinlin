@@ -19,7 +19,7 @@ a:hover{color:#008aff;text-decoration:none}
 body{background:#f6f6f6 url(../images/body_bg.gif) top repeat-x}
 #wrapper{margin:0px auto;width:980px}
 .top{height:90px;position:relative}
-#lang{position:absolute;right:15px;top:10px;z-index:1}
+#lang{position:absolute;right:21px;top:10px;z-index:1}
 #lang img{margin-right:5px;vertical-align:middle}
 #MainMenu{background:url(../images/MainMenu_bg.gif);height:30px;padding:3px 15px 5px 15px}
 #banner{background:url(../images/banner_bg.gif);height:152px;padding:11px 15px;overflow:hidden}
